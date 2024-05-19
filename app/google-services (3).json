@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786040077869",
+    "project_id": "schoolvotingapp-76707",
+    "storage_bucket": "schoolvotingapp-76707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786040077869:android:28bf82a8274bb35ca3c2a4",
+        "android_client_info": {
+          "package_name": "com.vote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSFfKj1dokcOOaz-nlPNq9RKkly9dN2-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
