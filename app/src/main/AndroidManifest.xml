@@ -18,6 +18,9 @@
         android:theme="@style/Theme.Voting_System"
         tools:targetApi="31">
         <activity
+            android:name=".Condidate_creationActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.HomePageActivity"
             android:exported="false" />
         <activity
